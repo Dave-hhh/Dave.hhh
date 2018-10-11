@@ -13,3 +13,15 @@ RunApp "com.tencent.mm", "plugin.backup.ui.BakChatRecoveringUI"  //下载聊天�
 RunApp "com.tencent.mm", "plugin.backup.ui.BakChatSetCryptUI"  //对上传或下载设置密码
 RunApp "com.tencent.mm", "plugin.game.ui.GameCenterUI"  //微信游戏相关
 RunApp "com.tencent.mm", "plugin.nearby.ui.NearbyFriendIntroUI" //附近人相关操作
+RunApp "com.tencent.mm", "plugin.shake.ui.ShakePersonalInfoUI"  //摇一摇设置
+RunApp "com.tencent.mm", "plugin.qqmail.ui.RoomInfoShareQrUI"  //邮箱相关
+RunApp "com.tencent.mm", "plugin.mail.ui.MallIndexUI" //我的钱包相关
+RunApp "com.tencent.mm"，"plugin.search.ui.FTSAddFriendUI" //添加好友页面
+RunApp "com.tencent.mm", "ui.contact.SayHiEditUI"  //打招呼
+RunApp "com.tencent.mm", "plugin.masssend.ui.MassSendSelectContactUI"  //群发助手相关
+RunApp "com.tencent.mm", "ui.openapi.AddAppUI"  //添加工具
+RunApp "com.tencent.mm", "ui.qrcode.ShowQRCodeStep1UI"  //分享二维码
+RunApp "com.tencent.mm", "plugin.scanner.ui.BaseScanUI"  //扫描二维码
+RunApp "com.tencent.mm", "plugin.brandservice.ui.BrandServiceIndexUI"  //微信公众号的组件
+RunApp "com.tencent.mm", "plugin.bottle.ui.BottleBeachUI" //  
+RunApp "com.tencent.mm", *
